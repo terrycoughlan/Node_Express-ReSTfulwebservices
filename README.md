@@ -8,3 +8,6 @@ then run gulp again
 ```
 ### Postman was used to test the webservices
 ### Mocha and Sinon were used for tests
+```
+To run tests: gulp test
+```
